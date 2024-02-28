@@ -15,8 +15,8 @@ This repository is dedicated to storing the assignment codes and related details
   - Conduct a comparative analysis of their performance.
 
 ### Assignment 3
-- **Objective:** Research-oriented experiment. Choose and research one topic from the following:
-  - PPO
+- **Objective:** Research-oriented experiment. Choose and research PPO topic.
+
 
 ## Additional Information
 Detailed information regarding data preprocessing and model configurations can be found in this repository. Your feedback and suggestions are warmly welcomed.
